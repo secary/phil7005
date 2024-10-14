@@ -1,5 +1,5 @@
 # PHIL 7005, Tri3, 2024
-[ Machine Learning and Artificial Intelligence](https://www.adelaide.edu.au/course-outlines/110073/1/tri-3/2024)  
+## [ Machine Learning and Artificial Intelligence](https://www.adelaide.edu.au/course-outlines/110073/1/tri-3/2024)  
 Here is the outline of the course. Resources will be available each week in the Modules section of myuni. Because new papers aer being published almost weekly in the field the topics might change, But broadly speaking the first half deals with ethics, the second with architectural issues and psychology: by which I mean similarities and differences between human and AI cognition.   The two are of course related since much of the discussion of AI concerns issues raised by the opaque" or "black box" nature  of deep neural networks in contexts that affect human welfare. 
 
 
